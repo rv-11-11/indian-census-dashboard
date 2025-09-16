@@ -1,5 +1,5 @@
 # Data Visualization Project 📊
-🔗 [**Live Demo**](https://j6rd6if2upbcd47dtw56g7.streamlit.app/) – Click to try it out!
+🔗 [**Live Demo**]((https://indian-census-dashboard-7nfrudpp4s6hyleo6ipa8k.streamlit.app/)) – Click to try it out!
 
 This project is a collection of interactive data visualizations built using Python and Plotly. It helps users explore and understand datasets through geographic and statistical plots.
 
